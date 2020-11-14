@@ -1,2 +1,2 @@
 # Azure
-Repositório de códigos usados na Azure
+Repositório de códigos usados na Azure.
