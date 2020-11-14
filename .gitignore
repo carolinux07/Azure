@@ -1,5 +1,13 @@
-# Results
-image1.txt
-image2.txt
-image4.txt
+# Vision
+Vision/image1.txt
+Vision/image2.txt
+Vision/image4.txt
+
+# Midias
+midias/
+midias/vinheta1.mp4
+midias/vinheta2.mp4
+
+# Video Indexer
+Video Indexer/venv_azure
 
