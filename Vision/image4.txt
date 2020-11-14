@@ -1,0 +1,19 @@
+[{'faceId': 'bb17b0b4-32c6-4643-b949-9ca35c0f5f70',
+ 'faceRectangle': {
+     'top': 45, 
+     'left': 225, 
+     'width': 147, 
+     'height': 147},
+      'faceAttributes': {
+          'smile': 0.198, 
+          'glasses': 'NoGlasses', 
+          'emotion': {
+              'anger': 0.0, 
+              'contempt': 0.0, 
+              'disgust': 0.0, 
+              'fear': 0.0, 
+              'happiness': 0.198, 
+              'neutral': 0.026, 
+              'sadness': 0.775, 
+              'surprise': 0.0
+              }}}]
